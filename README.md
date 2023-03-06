@@ -1,5 +1,6 @@
 ### Olá! Eu sou Lucas Ferreira👋
-### 🔭 Estou atualmente trabalhando com Java ultilizando Quarkus
+### 👨‍💻 Estou atualmente trabalhando com back-end 
+### ☕ Estudando Java com Quarkus, e SpringBoot 
 <!--
 **Lucasfdasilva/lucasfdasilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
