@@ -19,6 +19,8 @@
   <img align="center" alt="Lucas-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Lucas-Quarkus" height="40" width="40" src="https://kanoma.fr/blog/wp-content/uploads/2021/06/quarkus_icon_rgb_1024px_default.png">
   <img align="center" alt="Lucas-Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  <img align="center" alt="Lucas-Spring" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
+       
 </div>        
 
  ##
